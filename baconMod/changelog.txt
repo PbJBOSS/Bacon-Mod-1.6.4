@@ -1,0 +1,54 @@
+Version 1.0
+-Added Config (Speiger)
+-Added Items (MinecraftWero)
+-Added Custom Food Class (Speiger)
+-Updated Portal Gun Compatiblity (Speiger)
+-Added a easy way to add Textures (Speiger)
+-Added Armor Class (MinecraftWero)
+-Modified Armor Class. When you have a full set of Bacon Armor than he fill up the hunger bar a little bit (Speiger)
+-Modified Armor Class. Player eats the armor (if its a full set) randomly. (Speiger)
+-Added a new Sword. Hit a pig and you get a raw bacon.(Speiger)
+-Added tools(Speiger, Minecrafwero)
+-Added pigs Drops rawBacon randomly(Speiger)
+-Added Creative Tab (MinecraftWero)
+-Modified Armor Class Player Eaths the armor when he is Hungry Automaticly (you must wear a full set of Armor). (Speiger)
+-Modified Armor Class Armor will extend your Hungerbar about 3 times. (Speiger)
+-Fixed Tool no longer Stackable.(Speiger)
+-Fixed Added Sword Recipe(Speiger)
+-Modified Pigs only drops RawBacon when the player do not use a fine sword, every other item is alowed (Speiger)
+-Added BaconRecords(MinecraftWero)
+-Fixed BaconRecord Problem(Speiger, MinecraftWero)
+-Added Crafting Food(MinecraftWero, Speiger)
+-Modified Crafting Food. Now Eatable and gains Crafting damage (Speiger)
+
+Version 1.1.5
+
+-Added Block BaconMaker. Makes Out of rawPork RawBacon.(Speiger)
+-Added Blade (Needed for the baconMaker)
+-Modified Bacon Maker. When you put out the blade the progress will be saved.
+-Modified Bacon Maker. When you put the input out of the bacon maker progress will be reseted
+-Modified Bacon Maker. If fuel is 0 progress will be safed
+
+Version 1.2.0
+
+-Updated: Minecraft Version 1.6 (Man That was Insane!) (MinecraftWero, Speiger)
+-Added: BaconMaker Textures.
+-Modified: BaconMaker Now textures are there and he change it. Thanks to Eloraams 1.2.5 Source I did it (Speiger)
+-Modified: BaconMaker Now Lightning works Perfect. Thanks to Eloraams 1.2.5 Source. That helped a lot (Speiger)
+-Disabled: Bacon Disk. To Much Bugs (MinecraftWero)
+-Release 1.2.0 Ready.
+
+
+Version 1.3.9
+
+-Adding: Raw Bacon Block (Speiger)
+-Adding: Cooked Bacon Block (Minecraftwero)
+-Adding: Bacon Sandwich (Item) (Minecraftwero)
+-Adding: Bacon Sandwich (Testing) (Speiger)
+-Modifing: Bacon Sandwich. Working (Speiger)
+-Adding: Special ItemRenderer for Bacon Sandwich (Speiger)
+-Modifing: Bacon Sandwich (Block) Now looks at the rotation. And is sidesensitive eatable (Speiger)
+-Adding: Magic Bacon. Does heal FoodBar, and even Heals the player. But needs experience! (Speiger) 
+-Added: Bacon Leaves and Bacon Log (MinecraftWero)
+-Adding: Bacon Sapling (MinecraftWero and Speiger)
+-Adding: Container for the BaconChest (Minecraftwero)
